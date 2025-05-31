@@ -67,7 +67,7 @@
     "socket.io": "~3.0.4",
     "temp": "~0.9.4",
     "winston": "~3.3.3",
-    "yargs": "~16.2.0"
+    "yargs": "~18.0.0"
   },
   "devDependencies": {
     "archiver": "~5.1.0",
